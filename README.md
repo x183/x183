@@ -1,4 +1,4 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x183&langs_count=10" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=x183&show_icons=true&theme=transparent" />
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <div align="right">
