@@ -14,6 +14,8 @@ Bench press: 42
 
 Deadlift: 75
 
-  
+Squat: 60
+
+
 
 
